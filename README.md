@@ -162,6 +162,15 @@ This project is open source and available under the [MIT License](LICENSE).
 - Designed to work with Disboard.org's structure
 - Created as a Chrome extension for easy browser integration
 
+## 👨‍💻 Socials
+
+Created & maintained by Soham Mitra (SohamXYZ)
+
+- 🌐 Website: [https://sohamxyz.com](https://sohamxyz.com)
+- 📧 Email: soham@sohamxyz.com
+- 💬 Discord: sohamxyz
+- 🧠 discord bot/automation inquiries welcome!
+
 ---
 
 **⚠️ Disclaimer**: This tool is for educational purposes. Please respect website terms of service and Discord's API guidelines when using this extension.
